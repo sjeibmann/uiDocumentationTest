@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-![Three screens](https://github.com/sjeibmann/uiDocumentationTest/assets/3Screens.png)
+![Three screens](https://github.com/sjeibmann/uiDocumentationTest/tree/master/assets/3Screens.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
